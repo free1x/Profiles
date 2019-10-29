@@ -1,0 +1,75 @@
+# (MediaBacktoCN)
+# AcFun
+USER-AGENT,AcFun*,MediaBacktoCN
+DOMAIN-SUFFIX,acfun.cn,MediaBacktoCN
+DOMAIN-SUFFIX,acfun.com,MediaBacktoCN
+DOMAIN-SUFFIX,aixifan.com,MediaBacktoCN
+# > bilibili
+USER-AGENT,bili-universal,MediaBacktoCN
+USER-AGENT,Bilibili*,MediaBacktoCN
+DOMAIN-SUFFIX,acgvideo.com,MediaBacktoCN
+DOMAIN-SUFFIX,bilibili.com,MediaBacktoCN
+DOMAIN-SUFFIX,hdslb.com,MediaBacktoCN
+# > HunanTV
+USER-AGENT,MGTV*,MediaBacktoCN
+DOMAIN-SUFFIX,hitv.com,MediaBacktoCN
+DOMAIN-SUFFIX,hunantv.com,MediaBacktoCN
+DOMAIN-SUFFIX,mgtv.com,MediaBacktoCN
+# > Migu
+USER-AGENT,MiguVideo*,MediaBacktoCN
+USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91,MediaBacktoCN
+DOMAIN-SUFFIX,cmvideo.cn,MediaBacktoCN
+DOMAIN-SUFFIX,migu.cn,MediaBacktoCN
+DOMAIN-SUFFIX,miguvideo.com,MediaBacktoCN
+# > iQiyi
+USER-AGENT,iQiYi*,MediaBacktoCN
+USER-AGENT,PPStream*,MediaBacktoCN
+USER-AGENT,QIYI*,MediaBacktoCN
+USER-AGENT,QYPlayer*,MediaBacktoCN
+DOMAIN-SUFFIX,iqiyi.com,MediaBacktoCN
+DOMAIN-SUFFIX,iqiyipic.com,MediaBacktoCN
+DOMAIN-SUFFIX,qy.net,MediaBacktoCN
+DOMAIN-SUFFIX,71.am,MediaBacktoCN
+# > Sohu
+DOMAIN-SUFFIX,56.com,MediaBacktoCN
+DOMAIN-SUFFIX,sohu.com,MediaBacktoCN
+DOMAIN-SUFFIX,sohu.com.cn,MediaBacktoCN
+DOMAIN-SUFFIX,itc.cn,MediaBacktoCN
+DOMAIN-SUFFIX,v-56.com,MediaBacktoCN
+# > Tencent
+USER-AGENT,live4iphone*,MediaBacktoCN
+USER-AGENT,qqlive4iphone*,MediaBacktoCN
+USER-AGENT,TencentMidasConnect*,MediaBacktoCN
+DOMAIN-SUFFIX,video.qq.com,MediaBacktoCN
+# > Youku
+USER-AGENT,Youku*,MediaBacktoCN
+USER-AGENT,%E4%BC%98%E9%85%B7*,MediaBacktoCN
+DOMAIN-SUFFIX,soku.com,MediaBacktoCN
+DOMAIN-SUFFIX,youku.com,MediaBacktoCN
+DOMAIN-SUFFIX,ykimg.com,MediaBacktoCN
+
+# (Music)
+# > Alibaba
+USER-AGENT,walkman*,MediaBacktoCN
+USER-AGENT,xiami*,MediaBacktoCN
+DOMAIN-SUFFIX,xiami.com,MediaBacktoCN
+DOMAIN-SUFFIX,xiami.net,MediaBacktoCN
+# > Netease
+USER-AGENT,NeteaseMusic*,MediaBacktoCN
+USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*,MediaBacktoCN
+DOMAIN-SUFFIX,music.126.net,MediaBacktoCN
+DOMAIN-SUFFIX,music.163.com,MediaBacktoCN
+# > Tencent
+USER-AGENT,MOO%E9%9F%B3%E4%B9%90*,MediaBacktoCN
+USER-AGENT,QQ%E9%9F%B3%E4%B9%90,MediaBacktoCN
+DOMAIN-SUFFIX,qqmusic.qq.com,MediaBacktoCN
+DOMAIN-SUFFIX,y.qq.com,MediaBacktoCN
+DOMAIN,aqqmusic.tc.qq.com,MediaBacktoCN
+# Kugou and Kuwo
+DOMAIN-SUFFIX,kugou.com,MediaBacktoCN
+USER-AGENT,%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90*,MediaBacktoCN
+DOMAIN-SUFFIX,kuwo.cn,MediaBacktoCN
+DOMAIN-SUFFIX,koowo.com,MediaBacktoCN
+# > Baidu
+USER-AGENT,baiduyinyue,MediaBacktoCN
+DOMAIN-SUFFIX,qianqian.com,MediaBacktoCN
