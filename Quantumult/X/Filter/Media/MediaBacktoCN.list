@@ -47,13 +47,6 @@ USER-AGENT,%E4%BC%98%E9%85%B7*,MediaBacktoCN
 DOMAIN-SUFFIX,soku.com,MediaBacktoCN
 DOMAIN-SUFFIX,youku.com,MediaBacktoCN
 DOMAIN-SUFFIX,ykimg.com,MediaBacktoCN
-
-# (Music)
-# > Alibaba
-USER-AGENT,walkman*,MediaBacktoCN
-USER-AGENT,xiami*,MediaBacktoCN
-DOMAIN-SUFFIX,xiami.com,MediaBacktoCN
-DOMAIN-SUFFIX,xiami.net,MediaBacktoCN
 # > Netease
 USER-AGENT,NeteaseMusic*,MediaBacktoCN
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*,MediaBacktoCN
